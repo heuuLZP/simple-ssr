@@ -1,0 +1,16 @@
+{
+  "name": "simple-ssr",
+  "version": "1.0.0",
+  "description": "A simple-ssr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "heuulzp",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "vue": "^2.4.2",
+    "vue-server-renderer": "^2.4.2"
+  }
+}
